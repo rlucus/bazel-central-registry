@@ -1,0 +1,9 @@
+{
+    "url": "https://github.com/openconfig/gnmi/archive/refs/tags/v0.13.1.tar.gz",
+    "integrity": "sha256-zu/wclXYoESi7Rqri5+Y2rmdGmy39VBH7M3wlTBwFSQ=",
+    "strip_prefix": "gnmi-0.13.1",
+    "patch_strip": 0,
+    "patches": {
+        "module_dot_bazel.patch": "sha256-+ijfXV0x+doSrrbJjmno9RFjCyYH+ZLNAevg6ZMNwv4="
+    }
+}

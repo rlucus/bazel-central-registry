@@ -1,0 +1,9 @@
+{
+    "url": "https://github.com/openconfig/bootz/archive/refs/tags/v0.7.2.tar.gz",
+    "integrity": "sha256-KYEye563fARyzNPCLqpnuMi4hlpfHAzZ+DXEXCbojdA=",
+    "strip_prefix": "bootz-0.7.2",
+    "patch_strip": 0,
+    "patches": {
+        "module_dot_bazel.patch": "sha256-riZOsgqhn0azISvu/acldUIqGs0coW65qZJ3hMW/fwI="
+    }
+}

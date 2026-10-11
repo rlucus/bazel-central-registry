@@ -1,0 +1,9 @@
+{
+    "url": "https://github.com/openconfig/attestz/archive/refs/tags/v0.6.16.tar.gz",
+    "integrity": "sha256-6sNZWqa3+JFw6jP76gZO7BEQCaXaiCppLm6ywdjXEG0=",
+    "strip_prefix": "attestz-0.6.16",
+    "patch_strip": 0,
+    "patches": {
+        "module_dot_bazel.patch": "sha256-ofvWdpP9l+BoJerYMcqYExSq2bTgYH3Jc2wt8FOXAGw="
+    }
+}

@@ -1,0 +1,11 @@
+--- MODULE.bazel
++++ MODULE.bazel
+@@ -14,7 +14,7 @@
+ 
+ module(
+     name = "openconfig_bootz",
+-    version = "0.0.0",
++    version = "0.7.2",
+ )
+ 
+ bazel_dep(name = "gazelle", version = "0.51.3", repo_name = "bazel_gazelle")
